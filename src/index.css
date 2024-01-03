@@ -15,6 +15,20 @@ a {
   text-decoration: none;
 }
 
+img.small {
+  max-height: 10rem;
+  width: 100%;
+}
+
+button {
+  padding: 0.3rem;
+  border: 0.1rem;
+  background-color: rgb(191, 191, 2);
+  width: 100%;
+  cursor: pointer;
+  color: white;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -31,6 +45,12 @@ a {
 
 .col-2 {
   flex-basis: 100%;
+}
+
+.card {
+  background-color: #fff;
+  margin: 1rem;
+  padding: 0.5rem;
 }
 
 @media screen and (min-width: 800px) {
