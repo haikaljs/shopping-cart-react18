@@ -7,6 +7,6 @@
    1. npx create-react-app
    2. remove extra files
 
-2. Create website layout
-   1. create data.js
-   2. render product items
+2. create website layout
+   1. Header, Main and Basket component
+   2. style the component
