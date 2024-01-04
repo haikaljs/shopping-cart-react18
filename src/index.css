@@ -29,6 +29,27 @@ button {
   color: white;
 }
 
+button.add {
+  background-color: #40c0f0;
+  width: 1.5rem;
+}
+
+button.remove {
+  background-color: #f04040;
+  width: 1.5rem;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+button.badge {
+  background-color: rgb(191, 191, 2);
+  border: none;
+  color: white;
+  width: 1.5rem;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
