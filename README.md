@@ -23,4 +23,10 @@
    2. pass props to product component
 
 5. Implement cart
+
    1. Add and remove items from the cart
+
+6. Create basket component
+   1. List items in cartItems
+   2. Calculate sub total
+   3. Show checkout button
